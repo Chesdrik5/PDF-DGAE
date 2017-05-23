@@ -14,6 +14,9 @@ h5.asignacion {
     font-size: 1.8em;
     height: 2rem;
 }
+h4 {
+    margin: 0.1rem 0 0.01rem 0;
+}
 p {
     font-size: 13px;
     margin: 1px 0;
@@ -204,4 +207,31 @@ td, th {
     text-align: left;
     vertical-align: middle;
     border-radius: 2px;
+}
+.acuse{
+    border-bottom: 4px solid #C1B4B0;
+        margin-bottom: 5px;
+}
+.col.acuseEncabezado {
+    margin-top: 1em;
+}
+p.acuseP {
+    font-size: 14px;
+}
+.fotoAcuse{
+    text-align: center;
+}
+.cajaAcuse {
+    height: 250px;
+    width: 101%;
+    border: 2px solid #C1B4B0;  
+}
+.cajaAcuse.colorCafeR {
+    text-align: justify;
+    padding: 1em;
+        border: none;
+}
+.row .col.s4 {
+    width: 33.3333333333%;
+    padding: 0;
 }
