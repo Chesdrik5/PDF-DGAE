@@ -1,0 +1,39 @@
+.row.titulo{
+	border-bottom: 3px solid;
+}
+.container {
+    margin: 2em auto;
+    max-width: 1500px;
+    width: 90%;
+}
+table {
+    border-collapse: inherit;
+    border-spacing: 0;
+}
+table.doc{
+	border: 1px solid;
+}
+table.doc.name{
+	border-bottom: 0;
+}
+.divider {
+	color: #2d2d2d;
+    border: 1px dashed;
+    margin: 4em 0;
+    width: 100%;
+}
+.row.info {
+    margin: 1em 0;
+}
+.col.s2.offset-s10 {
+    border-top: 1px solid;
+    text-align: center;
+}
+.unam{
+    width: 30%;
+}
+.dgae{
+    width: 50%;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
